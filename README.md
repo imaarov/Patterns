@@ -2,8 +2,8 @@
 simple, design pattern samples 
 
 
-## [Behavioral]()
-- Memento
+## [Behavioral](https://github.com/imaaarov/DesignPatterns/tree/main/Behavioral)
+- [Memento](https://github.com/imaaarov/DesignPatterns/tree/main/Behavioral/Memento)
 
 
 
