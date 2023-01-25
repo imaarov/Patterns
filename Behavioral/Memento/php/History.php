@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPattern\Creational\Php;
+namespace DesignPattern\Behavioral\Memento\Php;
 
 class History {
     

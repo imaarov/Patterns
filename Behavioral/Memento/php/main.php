@@ -2,8 +2,8 @@
 
 include_once 'Browser.php';
 
-use DesignPattern\Creational\Php\Browser;
-use DesignPattern\Creational\Php\History;
+use DesignPattern\Behavioral\Memento\Php\Browser;
+use DesignPattern\Behavioral\Memento\Php\History;
 
 class Main {
 

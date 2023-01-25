@@ -1,10 +1,10 @@
 <?php
 
-namespace DesignPattern\Creational\Php;
+namespace DesignPattern\Behavioral\Memento\Php;
 
 include_once 'BrowserState.php';
 
-use DesignPattern\Creational\Php\BrowserState;
+use DesignPattern\Behavioral\Memento\Php\BrowserState;
 
 class Browser { 
 
