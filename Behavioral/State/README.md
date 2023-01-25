@@ -10,6 +10,10 @@ this pattern is used when an object change its behavior based on its internal st
 - State   - the class that gonna give that request to proper class 
 - ConcreteState - class that take action on request diffrently from another concretestate class
 
+# Interfaces
+- Interface State - contains handle methods
+
+
 # Visual Diagram
 
 ## Context
