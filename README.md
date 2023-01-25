@@ -11,6 +11,7 @@ simple, design pattern samples
 ## [Behavioral](https://github.com/imaaarov/DesignPatterns/tree/main/Behavioral)
 - [Memento](Behavioral/Memento)
 - [State](Behavioral/State)
+- [Iterator](Behavioral/Iterator)
 
 ## Refrences:
 [Design Patterns Article(not yet)](#)
