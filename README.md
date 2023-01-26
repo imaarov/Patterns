@@ -13,6 +13,7 @@ simple, design pattern samples
 - [State](Behavioral/State)
 - [Iterator](Behavioral/Iterator)
 - [Strategy](Behavioral/Strategy)
+- [Template Method](Behavioral/Template_Method)
 
 ## Refrences:
 [Design Patterns Article(not yet)](#)
