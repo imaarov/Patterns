@@ -12,6 +12,7 @@ simple, design pattern samples
 - [Memento](Behavioral/Memento)
 - [State](Behavioral/State)
 - [Iterator](Behavioral/Iterator)
+- [Strategy](Behavioral/Strategy)
 
 ## Refrences:
 [Design Patterns Article(not yet)](#)
