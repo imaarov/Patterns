@@ -15,6 +15,7 @@ simple, design pattern samples
 - [Strategy](Behavioral/Strategy)
 - [Template Method](Behavioral/Template_Method)
 - [Command](Behavioral/Command)
+- [Observer](Behavioral/Observer)
 
 ## Refrences:
 [Design Patterns Article(not yet)](#)
