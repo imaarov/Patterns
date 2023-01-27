@@ -14,6 +14,7 @@ simple, design pattern samples
 - [Iterator](Behavioral/Iterator)
 - [Strategy](Behavioral/Strategy)
 - [Template Method](Behavioral/Template_Method)
+- [Command](Behavioral/Command)
 
 ## Refrences:
 [Design Patterns Article(not yet)](#)
