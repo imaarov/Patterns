@@ -16,18 +16,5 @@ in command pattern the request is send to the invoker and invoker pass it to the
 
 
 # Visual Diagram
-
-## AbstractClass
-
-| AbstractClass
-| ------
-| templateMethod()
-| primitiveOperation1()
-| primitiveOperation2()
-
-## ConcreteClass
-
-| ConcreteClass
-| ------
-| primitiveOperation1()
-| primitiveOperation2()
+![Visual Diagram Command Pattern](img/command.png)
+image by [refactoring guru](https://refactoring.guru)
