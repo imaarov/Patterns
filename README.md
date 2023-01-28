@@ -17,7 +17,7 @@ simple, design pattern samples
 - [Command](Behavioral/Command)
 - [Observer](Behavioral/Observer)
 - [Mediator](Behavioral/Mediator)
-- [Mediator](Behavioral/Chain_Of_Resposibility)
+- [Chain Of Resposibility](Behavioral/Chain_Of_Resposibility)
 
 ## Refrences:
 [Design Patterns Article(not yet)](#)
