@@ -16,6 +16,7 @@ simple, design pattern samples
 - [Template Method](Behavioral/Template_Method)
 - [Command](Behavioral/Command)
 - [Observer](Behavioral/Observer)
+- [Mediator](Behavioral/Mediator)
 
 ## Refrences:
 [Design Patterns Article(not yet)](#)
