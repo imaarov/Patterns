@@ -3,7 +3,7 @@
 ## Behavioral Type  
 
 ### Use cases:
-this pattern is used when we want to notify 
+this pattern is used when we want to notify the changes of internal state of a class to other registered class
 
 # Classes
 - Publisher - class that have state that when its change other concreteobserver class will notify
