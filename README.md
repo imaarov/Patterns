@@ -2,8 +2,8 @@
 simple, design pattern samples 
 
 ## Types:
-- ### [Behavioral](#behavioral)
-- ### [Structural](#structural)
+- ### [Behavioral](#behavioral-1)
+- ### [Structural](#structural-1)
 - ### [Creational](#creational)
 
 
@@ -26,6 +26,7 @@ simple, design pattern samples
 - [Facade](Structural/Facade)
 - [Flyweight](Structural/Flyweight)
 - [Bridge](Structural/Bridge)
+- [Proxy](Structural/Proxy)
 
 ## Refrences:
 [Design Patterns: Elements of Reusable Object-Oriented Software(Gang of four)](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
