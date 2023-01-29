@@ -8,7 +8,7 @@ simple, design pattern samples
 
 
 
-## [Behavioral](https://github.com/imaaarov/DesignPatterns/tree/main/Behavioral)
+## [Behavioral](Behavioral)
 - [Memento](Behavioral/Memento)
 - [State](Behavioral/State)
 - [Iterator](Behavioral/Iterator)
@@ -18,6 +18,9 @@ simple, design pattern samples
 - [Observer](Behavioral/Observer)
 - [Mediator](Behavioral/Mediator)
 - [Chain Of Resposibility](Behavioral/Chain_Of_Resposibility)
+
+## [Structural](Structural)
+- [Composite](Structural/Composite)
 
 ## Refrences:
 [Design Patterns: Elements of Reusable Object-Oriented Software(Gang of four)](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
