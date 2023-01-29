@@ -22,6 +22,8 @@ simple, design pattern samples
 ## [Structural](Structural)
 - [Composite](Structural/Composite)
 - [Adapter](Structural/Adapter)
+- [Decorator](Structural)
+- [Facade](Structural/Facade)
 
 ## Refrences:
 [Design Patterns: Elements of Reusable Object-Oriented Software(Gang of four)](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
