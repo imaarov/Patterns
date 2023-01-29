@@ -1,6 +1,6 @@
-# Command Pattern
+# Chain Of Resposibility Pattern
 
-## Behavioral Type  
+## Behavioral Type
 
 ### Use cases:
 behavioral design pattern that lets
@@ -16,11 +16,11 @@ to pass it to the next handler in the chain.
 - Handler - include setNext and Handle methods for concrete classes
 
 # lifecycle
-![Visual Diagram Command Pattern](img/chainOfAction.png)
+![Visual Diagram Chain Of Resposibility Pattern](img/chainOfAction.png)
 
 image by [refactoring guru](https://refactoring.guru)
 
 # Visual Diagram
-![Visual Diagram Command Pattern](img/chainOfResponsibility.png)
+![Visual Diagram Chain Of Resposibility Pattern](img/chainOfResponsibility.png)
 
 image by [refactoring guru](https://refactoring.guru)

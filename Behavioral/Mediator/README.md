@@ -8,5 +8,5 @@ loose coupling by keeping objects from referring to each other explicitly, and i
 lets you vary their interaction independently.
 
 # Visual Diagram
-![Visual Diagram Command Pattern](img/mediator.png)
+![Visual Diagram Mediator Pattern](img/mediator.png)
 image by [refactoring guru](https://refactoring.guru)
