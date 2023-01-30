@@ -13,6 +13,6 @@ subclasses to alter the type of objects that will be created.
 
 
 # Visual Diagram
-![Visual Diagram Prototype Pattern](img/factory-method.png)
+![Visual Diagram Factory Method Pattern](img/factory-method.png)
 
 image by [refactoring guru](https://refactoring.guru)
