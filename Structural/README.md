@@ -1,7 +1,7 @@
 # Structural Pattern
 ### Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
-# Variation
+# Types
 
 - ### [Adapter Pattern](../../../tree/main/Structural/Adapter)
 

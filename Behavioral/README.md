@@ -1,7 +1,7 @@
 # Behavioral Pattern
 ### Behavioral Patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
-# Variation
+# Types
  - ### [Chain Of Resposibility Pattern](../../../tree/main/Behavioral/Chain_Of_Resposibility)
  
  ![Visual Diagram Chain Of Resposibility Pattern](img/chain-of-responsibility-mini.png)
