@@ -4,7 +4,7 @@ simple, design pattern samples
 ## Types:
 - ### [Behavioral](#behavioral-1)
 - ### [Structural](#structural-1)
-- ### [Creational](#creational)
+- ### [Creational](#creational-1)
 
 
 
@@ -27,6 +27,11 @@ simple, design pattern samples
 - [Flyweight](Structural/Flyweight)
 - [Bridge](Structural/Bridge)
 - [Proxy](Structural/Proxy)
+
+## [Creational](Creational)
+- [Prototype](Creational/Prototype)
+- [Singleton](Creational/Singleton)
+- [Factory Method](Creational/Factory)
 
 ## Refrences:
 [Design Patterns: Elements of Reusable Object-Oriented Software(Gang of four)](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
