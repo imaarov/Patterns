@@ -1,5 +1,5 @@
 # DesignPattern
-simple, design pattern samples 
+simple, Behavioral,Structural and Creational design patterns samples
 
 ## Types:
 - ### [Behavioral](#behavioral-1)
@@ -34,6 +34,10 @@ simple, design pattern samples
 - [Factory Method](Creational/Factory)
 - [Abstract Factory](Creational/Abstract_Factory)
 - [Builder](Creational/Builder)
+
+## Real Programming Example:
+- [x] [Adapter](Structural/Adapter)
+- [x] [State](Behavioral/State)
 
 ## Languages:
 - PHP (implemented)
