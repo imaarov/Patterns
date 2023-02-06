@@ -37,7 +37,7 @@ simple, design pattern samples
 
 ## Languages:
 - PHP (implemented)
-- Go  ((Not yet))
+- Go  (implementing...)
 - C#  (Not yet)
 
 
