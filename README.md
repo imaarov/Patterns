@@ -6,7 +6,10 @@ simple, Behavioral,Structural and Creational design patterns samples
 - ### [Structural](#structural-1)
 - ### [Creational](#creational-1)
 
+## Architectural:
+- ### [Architectural](#architectural-1)
 
+## [Active record](Architectural/)
 
 ## [Behavioral](Behavioral)
 - [Memento](Behavioral/Memento)
