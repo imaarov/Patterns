@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPattern\Structural\Facade\Php\Interface;
+namespace DesignPattern\Creational\Factory\Php\Interface;
 
 interface ViewEngineInterface {
     public function render(string $viewName, array $context);

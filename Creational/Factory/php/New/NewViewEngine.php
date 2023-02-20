@@ -2,7 +2,8 @@
 
 namespace DesignPattern\Creational\Factory\Php\New;
 
-use DesignPattern\Structural\Facade\Php\Interface\ViewEngineInterface;
+use DesignPattern\Creational\Factory\Php\Interface\ViewEngineInterface;
+
 
 class NewViewEngine implements ViewEngineInterface {
 
