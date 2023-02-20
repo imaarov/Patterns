@@ -42,6 +42,7 @@ simple, Behavioral,Structural and Creational design patterns samples
 - [x] [Adapter](Structural/Adapter)
 - [x] [State](Behavioral/State)
 - [x] [Singleton](Creational/Singleton)
+- [x] [Factory Method](Creational/Factory/php/sender/)
 
 ## Languages:
 - PHP (implemented)
