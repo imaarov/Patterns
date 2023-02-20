@@ -1,6 +1,7 @@
 <?php
 
-namespace DesignPattern\Creational\Singleton\Php;
+namespace DesignPattern\Creational\Singleton\Php\Config;
+
 
 class Main {
 
