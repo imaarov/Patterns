@@ -30,7 +30,7 @@ class MysqlDBConnection implements DBConnectionInterface
 
     public static function getInstance()
     {
-        if (self::$instance) {
+        if (!self::$instance) {
             try {
                 $dbHost = self::$options['dbHost'];
                 $dbName = self::$options['dbName'];
