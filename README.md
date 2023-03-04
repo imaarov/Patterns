@@ -46,8 +46,8 @@ simple, Behavioral,Structural and Creational design patterns samples
 
 ## Languages:
 - PHP (implemented)
+- C#  (implementing...)
 - Go  (implementing...)
-- C#  (Not yet)
 
 
 ## Refrences:
