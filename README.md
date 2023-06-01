@@ -3,7 +3,7 @@ simple, software patterns (include design patterns, architectural patterns, conc
 
 ## Types:
 - ### [Design Pattern](#design-pattern-1)
-- ### [Architectural Pattern](#behavioral-1)
+- ### [Architectural Pattern](#architectural-pattern-1)
 
 # [Design Pattern](#design-pattern)
 
@@ -43,6 +43,10 @@ simple, software patterns (include design patterns, architectural patterns, conc
 ## Languages:
 - PHP (implemented)
 - Go  (implementing...)
+
+
+
+# [Architectural Pattern](#architectural-pattern)
 
 
 ## Refrences:
