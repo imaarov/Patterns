@@ -1,52 +1,47 @@
 # DesignPattern
-simple, Behavioral,Structural and Creational design patterns samples
+simple, software patterns (include design patterns, architectural patterns, concurrency patterns, ...)
 
 ## Types:
-- ### [Behavioral](#behavioral-1)
-- ### [Structural](#structural-1)
-- ### [Creational](#creational-1)
+- ### [Design Pattern](#design-pattern-1)
+- ### [Architectural Pattern](#behavioral-1)
 
-## Architectural:
-- ### [Architectural](#architectural-1)
-
-## [Active record](Architectural/)
+# [Design Pattern](#design-pattern)
 
 ## [Behavioral](Behavioral)
-- [Memento](Behavioral/Memento)
-- [State](Behavioral/State)
-- [Iterator](Behavioral/Iterator)
-- [Strategy](Behavioral/Strategy)
-- [Template Method](Behavioral/Template_Method)
-- [Command](Behavioral/Command)
-- [Observer](Behavioral/Observer)
-- [Mediator](Behavioral/Mediator)
-- [Chain Of Resposibility](Behavioral/Chain_Of_Resposibility)
+- [Memento](Design/Behavioral/Memento)
+- [State](Design/Behavioral/State)
+- [Iterator](Design/Behavioral/Iterator)
+- [Strategy](Design/Behavioral/Strategy)
+- [Template Method](Design/Behavioral/Template_Method)
+- [Command](Design/Behavioral/Command)
+- [Observer](Design/Behavioral/Observer)
+- [Mediator](Design/Behavioral/Mediator)
+- [Chain Of Resposibility](Design/Behavioral/Chain_Of_Resposibility)
 
 ## [Structural](Structural)
-- [Composite](Structural/Composite)
-- [Adapter](Structural/Adapter)
-- [Decorator](Structural/Decorator)
-- [Facade](Structural/Facade)
-- [Flyweight](Structural/Flyweight)
-- [Bridge](Structural/Bridge)
-- [Proxy](Structural/Proxy)
+- [Composite](Design/Structural/Composite)
+- [Adapter](Design/Structural/Adapter)
+- [Decorator](Design/Structural/Decorator)
+- [Facade](Design/Structural/Facade)
+- [Flyweight](Design/Structural/Flyweight)
+- [Bridge](Design/Structural/Bridge)
+- [Proxy](Design/Structural/Proxy)
 
 ## [Creational](Creational)
-- [Prototype](Creational/Prototype)
-- [Singleton](Creational/Singleton)
-- [Factory Method](Creational/Factory)
-- [Abstract Factory](Creational/Abstract_Factory)
-- [Builder](Creational/Builder)
+- [Prototype](Design/Creational/Prototype)
+- [Singleton](Design/Creational/Singleton)
+- [Factory Method](Design/Creational/Factory)
+- [Abstract Factory](Design/Creational/Abstract_Factory)
+- [Builder](Design/Creational/Builder)
 
 ## Real Programming Example:
-- [x] [Adapter](Structural/Adapter)
-- [x] [State](Behavioral/State)
-- [x] [Singleton](Creational/Singleton)
-- [x] [Factory Method](Creational/Factory/php/sender/)
+- [x] [Adapter](Design/Structural/Adapter)
+- [x] [State](Design/Behavioral/State)
+- [x] [Singleton](Design/Creational/Singleton)
+- [x] [Factory Method](Design/Creational/Factory/php/sender/)
 
 ## Languages:
 - PHP (implemented)
-- C#  (implementing...)
 - Go  (implementing...)
 
 
