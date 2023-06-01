@@ -7,7 +7,7 @@ simple, software patterns (include design patterns, architectural patterns, conc
 
 # [Design Pattern](#design-pattern)
 
-## [Behavioral](Behavioral)
+## [Behavioral](Design/Behavioral)
 - [Memento](Design/Behavioral/Memento)
 - [State](Design/Behavioral/State)
 - [Iterator](Design/Behavioral/Iterator)
@@ -18,7 +18,7 @@ simple, software patterns (include design patterns, architectural patterns, conc
 - [Mediator](Design/Behavioral/Mediator)
 - [Chain Of Resposibility](Design/Behavioral/Chain_Of_Resposibility)
 
-## [Structural](Structural)
+## [Structural](Design/Structural)
 - [Composite](Design/Structural/Composite)
 - [Adapter](Design/Structural/Adapter)
 - [Decorator](Design/Structural/Decorator)
@@ -27,7 +27,7 @@ simple, software patterns (include design patterns, architectural patterns, conc
 - [Bridge](Design/Structural/Bridge)
 - [Proxy](Design/Structural/Proxy)
 
-## [Creational](Creational)
+## [Creational](Design/Creational)
 - [Prototype](Design/Creational/Prototype)
 - [Singleton](Design/Creational/Singleton)
 - [Factory Method](Design/Creational/Factory)
