@@ -19,12 +19,23 @@ class History {
     /**
      * Remove last element and return it.
      * 
-     * @param void
+     * @param string
      * @return 
      */
-    public function pop() {
+    public function pop() : string 
+    {
         $last_value = $this->states[count($this->states) - 1];
         array_pop($this->states);
         return $last_value;
+    }
+
+    /**
+     * Show all saved history
+     *
+     * @return array
+     */
+    public function showAllHistory() : array
+    {
+        return $this->states;
     }
 }
