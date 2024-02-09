@@ -42,14 +42,14 @@ simple, software patterns (include design patterns, architectural patterns, conc
 
 ## Languages:
 - PHP (implemented)
-- Go  (implementing...)
+- Golang  (implementing ??)
 
 
 
 # [Architectural Pattern](#architectural-pattern)
 
 
-## Refrences:
+## References:
 [Design Patterns: Elements of Reusable Object-Oriented Software(Gang of four)](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 
 [Head First Design Patterns](https://www.amazon.co.uk/dp/0596007124?linkCode=gs2&tag=oreilly20-21)
