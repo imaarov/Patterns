@@ -1,6 +1,15 @@
 # DesignPattern
 simple, software patterns (include design patterns, architectural patterns, concurrency patterns, ...)
 
+[![GitHub stars](https://img.shields.io/github/stars/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/stargazers)
+[![License](https://img.shields.io/github/license/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/blob/main/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/pulls)
+[![GitHub forks](https://img.shields.io/github/forks/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/watchers)
+
 ## Types:
 - ### [Design Pattern](#design-pattern-1)
 - ### [Architectural Pattern](#architectural-pattern-1)
