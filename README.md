@@ -1,5 +1,4 @@
 # DesignPattern
-simple, software patterns (include design patterns, architectural patterns, concurrency patterns, ...)
 
 [![GitHub stars](https://img.shields.io/github/stars/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/stargazers)
 [![License](https://img.shields.io/github/license/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/blob/main/LICENSE)
@@ -9,6 +8,8 @@ simple, software patterns (include design patterns, architectural patterns, conc
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/pulls)
 [![GitHub forks](https://img.shields.io/github/forks/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/watchers)
+
+simple, software patterns (include design patterns, architectural patterns, concurrency patterns, ...)
 
 ## Types:
 - ### [Design Pattern](#design-pattern-1)
