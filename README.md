@@ -1,69 +1,111 @@
-# DesignPattern
+# Design Patterns
 
-[![GitHub stars](https://img.shields.io/github/stars/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/stargazers)
-[![License](https://img.shields.io/github/license/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/blob/main/LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/pulls)
-[![GitHub forks](https://img.shields.io/github/forks/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/imaarov/patterns?style=flat-square)](https://github.com/imaarov/patterns/watchers)
+![GitHub Repo stars](https://img.shields.io/github/stars/imaarov/patterns?style=for-the-badge&logo=github)  ![GitHub forks](https://img.shields.io/github/forks/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub license](https://img.shields.io/github/license/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub top language](https://img.shields.io/github/languages/top/imaarov/patterns?style=for-the-badge&logo=github)
 
-simple, software patterns (include design patterns, architectural patterns, concurrency patterns, ...)
+A Comprehensive Collection of Software Design Patterns
 
-## Types:
-- ### [Design Pattern](#design-pattern-1)
-- ### [Architectural Pattern](#architectural-pattern-1)
+## Table of Contents
 
-# [Design Pattern](#design-pattern)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Design Patterns](#design-patterns)
+  - [Creational Patterns](#creational-patterns)
+  - [Structural Patterns](#structural-patterns)
+  - [Behavioral Patterns](#behavioral-patterns)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## [Behavioral](Design/Behavioral)
-- [Memento](Design/Behavioral/Memento)
-- [State](Design/Behavioral/State)
-- [Iterator](Design/Behavioral/Iterator)
-- [Strategy](Design/Behavioral/Strategy)
-- [Template Method](Design/Behavioral/Template_Method)
-- [Command](Design/Behavioral/Command)
-- [Observer](Design/Behavioral/Observer)
-- [Mediator](Design/Behavioral/Mediator)
-- [Chain Of Resposibility](Design/Behavioral/Chain_Of_Resposibility)
+## Introduction
 
-## [Structural](Design/Structural)
-- [Composite](Design/Structural/Composite)
-- [Adapter](Design/Structural/Adapter)
-- [Decorator](Design/Structural/Decorator)
-- [Facade](Design/Structural/Facade)
-- [Flyweight](Design/Structural/Flyweight)
-- [Bridge](Design/Structural/Bridge)
-- [Proxy](Design/Structural/Proxy)
+Welcome to the **Patterns** repository! This repository contains implementations and examples of various design patterns in software development. Whether you're a beginner or an experienced developer, this collection will help you understand and apply design patterns effectively.
 
-## [Creational](Design/Creational)
-- [Prototype](Design/Creational/Prototype)
-- [Singleton](Design/Creational/Singleton)
-- [Factory Method](Design/Creational/Factory)
-- [Abstract Factory](Design/Creational/Abstract_Factory)
-- [Builder](Design/Creational/Builder)
+## Features
 
-## IRL Programming Example:
-- [x] [Adapter](Design/Structural/Adapter)
-- [x] [State](Design/Behavioral/State)
-- [x] [Singleton](Design/Creational/Singleton)
-- [x] [Factory Method](Design/Creational/Factory/php/sender/)
+- Comprehensive collection of design patterns
+- Well-documented code with explanations
+- Examples in multiple programming languages
+- Easy-to-follow structure and organization
 
-## Languages:
-- PHP (implemented)
-- Golang  (implementing ??)
+## Installation
 
+To get started with this repository, clone it to your local machine using the following command:
 
+```bash
+git clone https://github.com/imaarov/patterns.git
+cd patterns
+```
 
-# [Architectural Pattern](#architectural-pattern)
+## Usage
 
+Each design pattern is located in its respective directory with implementation examples. Navigate through the folders to explore the patterns and their usage.
+```bash
+cd design-patterns/creational/singleton
+```
+Run the examples using your preferred programming language's compiler or interpreter.
 
-## References:
-[Design Patterns: Elements of Reusable Object-Oriented Software(Gang of four)](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+## Design Patterns
 
-[Head First Design Patterns](https://www.amazon.co.uk/dp/0596007124?linkCode=gs2&tag=oreilly20-21)
+### Creational Patterns
 
-[Refactoring.guru](https://refactoring.guru/design-patterns/book)
+1.  Singleton
+2.  Factory Method
+3.  Abstract Factory
+4.  Builder
+5.  Prototype
 
-[CodeWithMosh](https://codewithmosh.com/p/design-patterns)
+### Structural Patterns
+
+1.  Adapter
+2.  Composite
+3.  Decorator
+4.  Facade
+5.  Flyweight
+6.  Proxy
+
+### Behavioral Patterns
+
+1.  Chain of Responsibility
+2.  Command
+3.  Interpreter
+4.  Iterator
+5.  Mediator
+6.  Memento
+7.  Observer
+8.  State
+9.  Strategy
+10.  Template Method
+11.  Visitor
+
+## Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](https://github.com/imaarov/patterns/CONTRIBUTING.md) file for guidelines on how to contribute to this repository.
+
+1.  Fork the repository
+2.  Create a new branch (`git checkout -b feature/your-feature`)
+3.  Make your changes
+4.  Commit your changes (`git commit -m 'Add some feature'`)
+5.  Push to the branch (`git push origin feature/your-feature`)
+6.  Open a pull request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to open an issue or contact me directly.
+
+-   GitHub: [imaarov](https://github.com/imaarov)
+-   Email: info@imaarov.ir
+
+### Tips for Further Improvement
+
+1. **Add Examples and Diagrams**: Include UML diagrams or flowcharts for each design pattern to visually explain how they work.
+2. **Links to Additional Resources**: Provide links to external resources, books, or articles for further reading.
+3. **Interactive Elements**: Consider adding links to interactive tutorials or online playgrounds where users can experiment with the patterns.
+4. **Consistent Formatting**: Ensure consistent formatting and coding style across all examples for better readability and understanding.
+
+By following this template and the tips, you'll have a detailed and engaging README file that will be helpful to anyone who visits your repository.
