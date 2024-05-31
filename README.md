@@ -21,6 +21,7 @@ A Comprehensive Collection of Software Design Patterns
 - [📝 License](#-license)
 - [📬 Contact](#-contact)
 - [💡 Tips for Further Improvement](#-tips-for-further-improvement)
+- [🎉 Credits](#-credits)
 
 ## 📜 Introduction
 
