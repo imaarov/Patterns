@@ -10,6 +10,7 @@ A Comprehensive Collection of Software Design Patterns
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Choose your language](#choose-your-language)
 - [Design Patterns](#design-patterns)
   - [Creational Patterns](#creational-patterns)
   - [Structural Patterns](#structural-patterns)
@@ -45,6 +46,13 @@ Each design pattern is located in its respective directory with implementation e
 cd design-patterns/creational/singleton
 ```
 Run the examples using your preferred programming language's compiler or interpreter.
+
+## Choose Your Language
+
+Select your preferred language to see the relevant examples:
+
+- [PHP](/php/src)
+- [Java](#java-examples)
 
 ## Design Patterns
 
