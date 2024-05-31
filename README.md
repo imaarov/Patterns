@@ -8,19 +8,19 @@ A Comprehensive Collection of Software Design Patterns
 
 ## 📑 Table of Contents
 
-- [📜 Introduction](#introduction)
-- [✨ Features](#features)
-- [⚙️ Installation](#installation)
-- [🚀 Usage](#usage)
-- [🌐 Choose Your Language](#choose-your-language)
-- [📚 Design Patterns](#design-patterns)
-  - [🏗️ Creational Patterns](#creational-patterns)
-  - [🏛️ Structural Patterns](#structural-patterns)
-  - [🧠 Behavioral Patterns](#behavioral-patterns)
-- [🤝 Contributing](#contributing)
-- [📝 License](#license)
-- [📬 Contact](#contact)
-- [💡 Tips for Further Improvement](#tips-for-further-improvement)
+- [📜 Introduction](#-introduction)
+- [✨ Features](#-features)
+- [⚙️ Installation](#-installation)
+- [🚀 Usage](#-usage)
+- [🌐 Choose Your Language](#-choose-your-language)
+- [📚 Design Patterns](#-design-patterns)
+  - [🏗️ Creational Patterns](#-creational-patterns)
+  - [🏛️ Structural Patterns](#-structural-patterns)
+  - [🧠 Behavioral Patterns](#-behavioral-patterns)
+- [🤝 Contributing](#-contributing)
+- [📝 License](#-license)
+- [📬 Contact](#-contact)
+- [💡 Tips for Further Improvement](#-tips-for-further-improvement)
 
 ## 📜 Introduction
 
