@@ -99,18 +99,16 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 4. **Consistent Formatting**: Ensure consistent formatting and coding style across all examples for better readability and understanding.
 
 
-## 🎉 Credits
+## 🎉 Credits + Recommendation for reading 
 
-This project utilizes concepts and illustrations from several authoritative sources. Proper credit is given to these resources for their invaluable contributions to the field of software development and design patterns.
+This project utilizes concepts from several authoritative sources. Proper credit is given to these resources for their invaluable contributions to the field of software development and design patterns.
 
 ### 📚 Books
 - **Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four)**
   - Authors: Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
-  - ISBN: 978-0201633610
 
 - **Head First Design Patterns**
   - Authors: Eric Freeman, Bert Bates, Kathy Sierra, and Elisabeth Robson
-  - ISBN: 978-0596007126
 
 ### 🌐 Websites
 - **Refactoring.Guru**
@@ -120,9 +118,6 @@ This project utilizes concepts and illustrations from several authoritative sour
 - **CodeWithMosh**
   - Website: [CodeWithMosh](https://codewithmosh.com/)
   - Description: An online platform offering coding courses and tutorials by Mosh Hamedani, covering a wide range of programming topics and best practices.
-
-### 🖼️ Image and Diagram Usage
-- Some images and diagrams used in this project are sourced from Refactoring.Guru. These images are used under the terms specified by Refactoring.Guru for educational and personal use. Proper attribution is provided in accordance with their usage policy.
 
 ### 🙏 Acknowledgements
 - Special thanks to the authors and creators of these resources for their exceptional work and contributions to the programming community.
