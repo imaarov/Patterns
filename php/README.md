@@ -12,14 +12,14 @@ PHP, being  widely-used server-side scripting language, benefits greatly from th
 
 Here is a list of design patterns covered in this directory:
 
-- **Creational Patterns**
+- [**Creational Patterns**](src/Creational)
   - Singleton
   - Factory Method
   - Abstract Factory
   - Builder
   - Prototype
 
-- **Structural Patterns**
+- [**Structural Patterns**](src/Structural)
   - Adapter
   - Composite
   - Decorator
@@ -27,7 +27,7 @@ Here is a list of design patterns covered in this directory:
   - Flyweight
   - Proxy
 
-- **Behavioral Patterns**
+- [**Behavioral Patterns**](src/Behavioral)
   - Chain of Responsibility
   - Command
   - Interpreter
