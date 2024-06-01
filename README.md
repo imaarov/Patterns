@@ -57,7 +57,7 @@ Run the examples using your preferred programming language's compiler or interpr
 
 Select your preferred language to see the relevant examples:
 
-- [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP](/php/src)
+- [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP](/php/)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) Java (not implemented yet)
 
 ## 📚 Design Patterns
