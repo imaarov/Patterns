@@ -57,7 +57,7 @@ PHP, with its dynamic nature and flexible syntax, offers unique opportunities an
 Each design pattern is organized into its own folder with the following structure:
 
 ```
-/php
+/src
   /Creational
     /Singleton
       - Singleton.php
