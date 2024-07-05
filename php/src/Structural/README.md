@@ -1,59 +1,40 @@
 # Structural Pattern
-### Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
+### Structural php/src patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
 # Types
 
-- ### [Adapter Pattern](../../../../tree/main/Design/Structural/Adapter)
+- ### [Adapter Pattern](../../../../main/php/src/Structural/Adapter)
 
 ![Visual Diagram Adapter Pattern](img/adapter-mini.png)
 
 converts the interface of one object so that another object can understand it.
 
-- ### [Bridge Pattern](../../../../tree/main/Design/Structural/Bridge)
+- ### [Bridge Pattern](../../../../main/php/src/Structural/Bridge)
 
-![Visual Diagram Bridge Pattern](img/bridge-mini.png)
-
-Bridge is a structural design pattern that lets you split a large
+Bridge is a structural php/src pattern that lets you split a large
 class or a set of closely related classes into two separate
 hierarchies—abstraction and implementation—which can be
 developed independently of each other.
 
-- ### [Composite Pattern](../../../../tree/main/Design/Structural/Composite)
-
-![Visual Diagram Composite Pattern](img/composite-mini.png)
+- ### [Composite Pattern](../../../../main/php/src/Structural/Composite)
 
 this pattern is used when we want to represent a hierarchy and we want to treat the object of the hierarchy the same way;
 
-- ### [Decorator Pattern](../../../../tree/main/Design/Structural/Decorator)
-
-![Visual Diagram Decorator Pattern](img/decorator-mini.png)
+- ### [Decorator Pattern](../../../../main/php/src/Structural/Decorator)
 
 Attach additional responsibilities to an object dynamically. Decorators provide a
 flexible alternative to subclassing for extending functionality.
 
-- ### [Facade Pattern](../../../../tree/main/Design/Structural/Facade)
-
-![Visual Diagram Facade Pattern](img/facade-mini.png)
+- ### [Facade Pattern](../../../../main/php/src/Structural/Facade)
 
 Provide a unified interface to a set of interfaces in a subsystem. Facade defines a
 higher-level interface that makes the subsystem easier to use.
 
-- ### [Flyweight Pattern](../../../../tree/main/Design/Structural/Flyweight)
-
-![Visual Diagram Flyweight Pattern](img/flyweight-mini.png)
+- ### [Flyweight Pattern](../../../../main/php/src/Structural/Flyweight)
 
 Use sharing to support large numbers of fine-grained objects efficiently.
 
-- ### [Proxy Pattern](../../../../tree/main/Design/Structural/Proxy)
+- ### [Proxy Pattern](../../../../main/php/src/Structural/Proxy)
 
-![Visual Diagram Proxy Pattern](img/proxy-mini.png)
-
-Proxy is a structural design pattern that lets you provide a
+Proxy is a structural php/src pattern that lets you provide a
 substitute or placeholder for another object.
-
-
-
-images by [refactoring guru](https://refactoring.guru)
-
-  
-  
