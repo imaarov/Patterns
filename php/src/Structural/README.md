@@ -5,8 +5,6 @@
 
 - ### [Adapter Pattern](../../../../main/php/src/Structural/Adapter)
 
-![Visual Diagram Adapter Pattern](img/adapter-mini.png)
-
 converts the interface of one object so that another object can understand it.
 
 - ### [Bridge Pattern](../../../../main/php/src/Structural/Bridge)
