@@ -1,8 +1,6 @@
-
 # Design Patterns
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub license](https://img.shields.io/github/license/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/imaarov/patterns?style=for-the-badge&logo=github) ![GitHub top language](https://img.shields.io/github/languages/top/imaarov/patterns?style=for-the-badge&logo=github)
-
 
 A Comprehensive Collection of Software Design Patterns
 
@@ -65,7 +63,6 @@ Select your preferred language to see the relevant examples:
 ### 🏗️ Creational Patterns
 
 ### 🏛️ Structural Patterns
-
 
 ### 🧠 Behavioral Patterns
 
